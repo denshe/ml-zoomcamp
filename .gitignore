@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 car_fuel_efficiency.csv
 course_lead_scoring.csv
+pipeline_v1.bin
